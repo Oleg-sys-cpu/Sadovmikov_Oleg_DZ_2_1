@@ -15,4 +15,4 @@ public class Main2 {
     public static void main2(String[] args) {
         checkSumSign(); // Вызов метода
     }
-}}
+}
