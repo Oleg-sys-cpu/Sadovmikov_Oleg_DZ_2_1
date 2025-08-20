@@ -1,4 +1,4 @@
-public class Main { // Или имя вашего класса
+public class printThreeWords { // Или имя вашего класса
 
     public static void printThreeWords() {
         System.out.println("Orange");

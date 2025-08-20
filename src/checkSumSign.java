@@ -1,4 +1,4 @@
-public class Main2 {
+public class checkSumSign {
 
     public static void checkSumSign() {
         int a = 10; // Инициализация переменной a любым целым числом
